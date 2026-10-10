@@ -1,0 +1,6 @@
+{
+  "name": "CareerCraft AI — Mülakat & Kariyer Koçu",
+  "description": "Mülakatçı unvanına özel soru üretimi, interaktif mülakat simülatörü ve CV ile eğitim içeriklerine dayalı kişiselleştirilmiş kariyer yol haritası asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
